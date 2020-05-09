@@ -1,1 +1,1 @@
-# golangmysql
+# golang-mysql
